@@ -1,0 +1,20 @@
+E:\C#\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=SportsStore
+--content-root=E:\C#\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore
+--file=E:\C#\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\Views\Account\Login.cshtml
+--file=E:\C#\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\Views\Admin\Edit.cshtml
+--file=E:\C#\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\Views\Admin\Index.cshtml
+--file=E:\C#\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\Views\Cart\Index.cshtml
+--file=E:\C#\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\Views\Error\Error.cshtml
+--file=E:\C#\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\Views\Order\Checkout.cshtml
+--file=E:\C#\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\Views\Order\Completed.cshtml
+--file=E:\C#\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\Views\Order\List.cshtml
+--file=E:\C#\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\Views\Product\List.cshtml
+--file=E:\C#\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\Views\Shared\Components\CartSummary\Default.cshtml
+--file=E:\C#\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\Views\Shared\Components\NavigationMenu\Default.cshtml
+--file=E:\C#\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\Views\Shared\ProductSummary.cshtml
+--file=E:\C#\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\Views\Shared\_AdminLayout.cshtml
+--file=E:\C#\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\Views\Shared\_Layout.cshtml
+--file=E:\C#\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\Views\_ViewImports.cshtml
+--file=E:\C#\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\Views\_ViewStart.cshtml
